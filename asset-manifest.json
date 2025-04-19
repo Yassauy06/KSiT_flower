@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tech_marketplace/static/css/main.f516e896.css",
-    "main.js": "/tech_marketplace/static/js/main.2798d2fe.js",
+    "main.js": "/tech_marketplace/static/js/main.c42aedfa.js",
     "index.html": "/tech_marketplace/index.html",
     "main.f516e896.css.map": "/tech_marketplace/static/css/main.f516e896.css.map",
-    "main.2798d2fe.js.map": "/tech_marketplace/static/js/main.2798d2fe.js.map"
+    "main.c42aedfa.js.map": "/tech_marketplace/static/js/main.c42aedfa.js.map"
   },
   "entrypoints": [
     "static/css/main.f516e896.css",
-    "static/js/main.2798d2fe.js"
+    "static/js/main.c42aedfa.js"
   ]
 }
