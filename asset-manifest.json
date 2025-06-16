@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/tech_marketplace/static/css/main.37c0f61c.css",
-    "main.js": "/tech_marketplace/static/js/main.2e2dcc93.js",
-    "static/media/light.jpg": "/tech_marketplace/static/media/light.2505f03e513642f077d5.jpg",
+    "main.js": "/tech_marketplace/static/js/main.ca8efdbd.js",
+    "static/media/ksit_logo.jpg": "/tech_marketplace/static/media/ksit_logo.ea2490cd6dd765b011ec.jpg",
+    "static/media/lightt.jpg": "/tech_marketplace/static/media/lightt.a858739e3d695b7164b4.jpg",
     "static/media/dark.jpg": "/tech_marketplace/static/media/dark.fcc8d606a581a9894c77.jpg",
     "index.html": "/tech_marketplace/index.html",
     "main.37c0f61c.css.map": "/tech_marketplace/static/css/main.37c0f61c.css.map",
-    "main.2e2dcc93.js.map": "/tech_marketplace/static/js/main.2e2dcc93.js.map"
+    "main.ca8efdbd.js.map": "/tech_marketplace/static/js/main.ca8efdbd.js.map"
   },
   "entrypoints": [
     "static/css/main.37c0f61c.css",
-    "static/js/main.2e2dcc93.js"
+    "static/js/main.ca8efdbd.js"
   ]
 }
