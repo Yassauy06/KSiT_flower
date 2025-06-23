@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/tech_marketplace/static/css/main.37c0f61c.css",
-    "main.js": "/tech_marketplace/static/js/main.ca8efdbd.js",
-    "static/media/ksit_logo.jpg": "/tech_marketplace/static/media/ksit_logo.ea2490cd6dd765b011ec.jpg",
-    "static/media/lightt.jpg": "/tech_marketplace/static/media/lightt.a858739e3d695b7164b4.jpg",
-    "static/media/dark.jpg": "/tech_marketplace/static/media/dark.fcc8d606a581a9894c77.jpg",
-    "index.html": "/tech_marketplace/index.html",
-    "main.37c0f61c.css.map": "/tech_marketplace/static/css/main.37c0f61c.css.map",
-    "main.ca8efdbd.js.map": "/tech_marketplace/static/js/main.ca8efdbd.js.map"
+    "main.css": "/KSiT_flower/static/css/main.e48dfc8c.css",
+    "main.js": "/KSiT_flower/static/js/main.84d80192.js",
+    "static/media/ksit.jpg": "/KSiT_flower/static/media/ksit.103b92d1b9df6496d585.jpg",
+    "static/media/ksit3.webp": "/KSiT_flower/static/media/ksit3.ba09e430ebbe89442a15.webp",
+    "static/media/ksit2.webp": "/KSiT_flower/static/media/ksit2.47179d9077f672c8e566.webp",
+    "static/media/ksit_logo.jpg": "/KSiT_flower/static/media/ksit_logo.ea2490cd6dd765b011ec.jpg",
+    "static/media/lightt.jpg": "/KSiT_flower/static/media/lightt.a858739e3d695b7164b4.jpg",
+    "static/media/dark.jpg": "/KSiT_flower/static/media/dark.fcc8d606a581a9894c77.jpg",
+    "index.html": "/KSiT_flower/index.html",
+    "main.e48dfc8c.css.map": "/KSiT_flower/static/css/main.e48dfc8c.css.map",
+    "main.84d80192.js.map": "/KSiT_flower/static/js/main.84d80192.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c0f61c.css",
-    "static/js/main.ca8efdbd.js"
+    "static/css/main.e48dfc8c.css",
+    "static/js/main.84d80192.js"
   ]
 }
